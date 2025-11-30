@@ -1,11 +1,5 @@
 # 🛰️ Satellite Trajectory Prediction & Collision Detection System
 
-![Python](https://img.shields.io/badge/python-3.10-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.1-red.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)
-![Docker](https://img.shields.io/badge/Docker-24.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
 An AI-powered real-time satellite tracking, trajectory prediction, and collision detection system using PyTorch GRU neural networks, Apache Kafka for streaming, and FastAPI for REST API.
 
 ## 📋 Table of Contents
